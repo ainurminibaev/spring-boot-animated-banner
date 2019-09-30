@@ -1,0 +1,1 @@
+Very useful demo project to demonstrate new animated (GIF) banners in Spring Boot 
